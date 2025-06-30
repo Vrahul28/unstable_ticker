@@ -49,5 +49,5 @@ Efficient List Updates: Only the StockTile widget gets rebuilt if its stock valu
 No setState() used globally: All updates are reactive (Obx) for precise rebuilds.
 Flash Color Efficiency: Animated color change uses AnimatedContainer for smooth transitions.
 
-8. Flutter DevTools Overlay (Screenshot): Include a screenshot here named assets/performance_overlay.png
+8. Flutter DevTools Overlay (Screenshot): Include a screenshot here named Screenshot 2025-06-30 130616.png next to README
 
